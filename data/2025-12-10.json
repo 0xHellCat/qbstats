@@ -1,0 +1,2136 @@
+[
+    {
+        "timestamp": "2025-12-10T02:39:51.246484",
+        "total_uploaded": 168933481175,
+        "torrents": [
+            {
+                "name": "Ocean's Eight (2018) MULTi VFF 2160p 10bit 4KLight DOLBY VISION BluRay TrueHD Atmos 7.1 x265-QTZ.mkv",
+                "hash": "17a73e5066b272f693e4a04fd81cfe84b6df5250",
+                "size": 7144250141,
+                "uploaded": 802154129,
+                "ratio": 0.11215726562260687,
+                "added_on": 1756405430
+            },
+            {
+                "name": "One Piece S01E1131 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "ae8e44a48ab982bca02581c0f587fe9841a0fabb",
+                "size": 339251326,
+                "uploaded": 176433902,
+                "ratio": 0.505605617466826,
+                "added_on": 1748820899
+            },
+            {
+                "name": "Call of the Night S02E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "e920cc6bf797baef6955eb42717b677a787a002f",
+                "size": 575648030,
+                "uploaded": 387296553,
+                "ratio": 0.6723111955516954,
+                "added_on": 1754675808
+            },
+            {
+                "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "b72c3f8c8e3aa99c2cf9ca52d9039d9fca3d3ffe",
+                "size": 1453464490,
+                "uploaded": 476671573,
+                "ratio": 0.32795543082032913,
+                "added_on": 1765138063
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ef914269377e3cc4cc37ef388739b134eb084b85",
+                "size": 1475244630,
+                "uploaded": 124911046,
+                "ratio": 0.08386545528060493,
+                "added_on": 1761888909
+            },
+            {
+                "name": "Ocean's Eleven (2001) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR BluRay DTS-HD MA 5.1 x265-QTZ.mkv",
+                "hash": "0823bf7b794a534026b62027f7ef7595d78c7412",
+                "size": 8241250007,
+                "uploaded": 2629745250,
+                "ratio": 0.31840447722871557,
+                "added_on": 1756405430
+            },
+            {
+                "name": "Dr. STONE S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "828627a0af8f42f17ff97f9e3f183beb6ffd0a60",
+                "size": 1460121158,
+                "uploaded": 292515619,
+                "ratio": 0.1998743897875432,
+                "added_on": 1753396385
+            },
+            {
+                "name": "The Witcher S03 MULTi VFI 2160p 10bit 4KLight DV HDR WebRip DDP 5.1 Atmos x265-QTZ",
+                "hash": "b4dcef4b272dbb49855f0a6abeb2c3459e83fc5f",
+                "size": 20697257265,
+                "uploaded": 3490221845,
+                "ratio": 0.16857257765081693,
+                "added_on": 1762627985
+            },
+            {
+                "name": "The Apothecary Diaries S02E24 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "3811825a8f180512f7e7a368a2038e01aba241a0",
+                "size": 1445760661,
+                "uploaded": 166475324,
+                "ratio": 0.11461817755439203,
+                "added_on": 1751683068
+            },
+            {
+                "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon, I'm Out for Revenge S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "9d598e1b7296066251478f085a2aa3fd24c78e34",
+                "size": 590706773,
+                "uploaded": 86214241,
+                "ratio": 0.1459509945385373,
+                "added_on": 1762545703
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "f3479a5aff4c66cb920cb5c9948ffa7a7c8f16d8",
+                "size": 1478511986,
+                "uploaded": 703558068,
+                "ratio": 0.4758555051714001,
+                "added_on": 1763664043
+            },
+            {
+                "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon, I'm Out for Revenge S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "bfcb346f3e526aff5d2711f25ba49c4f3bb13ba8",
+                "size": 587903287,
+                "uploaded": 263607309,
+                "ratio": 0.4483854995013831,
+                "added_on": 1764357883
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "789d68362a1c271e98ee871ab9448064f762d6b5",
+                "size": 1442254170,
+                "uploaded": 1495157524,
+                "ratio": 1.0329558064149955,
+                "added_on": 1746661046
+            },
+            {
+                "name": "Ocean's Twelve (2004) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR BluRay DTS-HD MA 5.1 x265-QTZ.mkv",
+                "hash": "5007ec83e3e36a6696445746ab2c076ff182419f",
+                "size": 9233192294,
+                "uploaded": 3850566270,
+                "ratio": 0.41624196227457305,
+                "added_on": 1756405430
+            },
+            {
+                "name": "The Shiunji Family Children S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ab6c2ad4b9d1504d6e73efb8a22fabddb4472f36",
+                "size": 1464320454,
+                "uploaded": 1451417482,
+                "ratio": 0.9873866393244001,
+                "added_on": 1747780012
+            },
+            {
+                "name": "One Piece S01E1129 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "4bf49030f34610c9e4c56a1bb648e83db122644e",
+                "size": 444966214,
+                "uploaded": 808818919,
+                "ratio": 1.8135278555959395,
+                "added_on": 1747607065
+            },
+            {
+                "name": "My.Status.as.an.Assassin.Obviously.Exceeds.the.Heros.S01E06.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "b21fb16e597450fe6a8c5bb16704a43d235ea398",
+                "size": 1494079640,
+                "uploaded": 290164168,
+                "ratio": 0.19420930466598152,
+                "added_on": 1762794523
+            },
+            {
+                "name": "One Piece S01E1138 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "d163b7b517af9f7044a06d2123de07a0526698ab",
+                "size": 391095945,
+                "uploaded": 6294582,
+                "ratio": 0.015995437691503453,
+                "added_on": 1754299732
+            },
+            {
+                "name": "Call of the Night S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+                "hash": "85ff46487e0271565e2c8dbe92bfe7cbbd2880d6",
+                "size": 895595075,
+                "uploaded": 97594427,
+                "ratio": 0.10880923537584977,
+                "added_on": 1757412108
+            },
+            {
+                "name": "Fury (2014) v2 MULTi VFF 2160p 10bit 4KLight DV HDR BluRay TrueHD 7.1 Atmos x265-QTZ.mkv",
+                "hash": "2fad1121880769958dbe5641ed33355cffa0823f",
+                "size": 13555343244,
+                "uploaded": 10165624534,
+                "ratio": 0.7491042676569263,
+                "added_on": 1752858960
+            },
+            {
+                "name": "Call of the Night S02E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "840333373a2697a0f73b43962b84b1950a9b5fa0",
+                "size": 570529110,
+                "uploaded": 176911870,
+                "ratio": 0.3094342094728132,
+                "added_on": 1755880248
+            },
+            {
+                "name": "One Piece S01E1147 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "3f460e8f0080a2ab54d5f7ea59b932209bbcbe99",
+                "size": 427574993,
+                "uploaded": 51034361,
+                "ratio": 0.11853733599114238,
+                "added_on": 1761678181
+            },
+            {
+                "name": "Clevatess.S01E04.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "60c56c7864062800539ce4ea577b8afface634ca",
+                "size": 1473993246,
+                "uploaded": 100374,
+                "ratio": 6.797561862587374e-05,
+                "added_on": 1753301568
+            },
+            {
+                "name": "Now You See Me 2 (2016) MULTi VFF 2160p 10bit 4KLight HDR BluRay x265 AAC 7.1-QTZ.mkv",
+                "hash": "46b24e42d1e021af9af79422366fa65f8f628039",
+                "size": 4936954944,
+                "uploaded": 2849332344,
+                "ratio": 0.5755601160944883,
+                "added_on": 1756405430
+            },
+            {
+                "name": "WITCH WATCH S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "f794a908655d6bedb592d96a7ffe07cd3e0b8913",
+                "size": 605246124,
+                "uploaded": 5447955,
+                "ratio": 0.0088584432202644,
+                "added_on": 1748914377
+            },
+            {
+                "name": "Witch.Watch.S01E07.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "d065044f6a96b966b4aceffbb81f281daea180bf",
+                "size": 277297249,
+                "uploaded": 42634711,
+                "ratio": 0.15072200785488463,
+                "added_on": 1747606082
+            },
+            {
+                "name": "A Wild Last Boss Appeared S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "c5c65b6bb181c7a15f6c4ce7d027af9abb5a5d62",
+                "size": 1445245864,
+                "uploaded": 165652604,
+                "ratio": 0.11461897807583,
+                "added_on": 1763851423
+            },
+            {
+                "name": "Apocalypse Bringer Mynoghra World Conquest Starts with the Civilization of Ruin S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "1a37708e871f778c59c41b00536e9914ff726b09",
+                "size": 1439597449,
+                "uploaded": 182999989,
+                "ratio": 0.1268748517223745,
+                "added_on": 1757301330
+            },
+            {
+                "name": "Rush Hour 3 (2007) MULTI VFF 1080p 10bit Bluray DDP 7.1 x265-ASKO.mkv",
+                "hash": "2fd744f7a4a41438edd10e67a98871e1a4e23c0e",
+                "size": 3525830523,
+                "uploaded": 1087440044,
+                "ratio": 0.30801602029937203,
+                "added_on": 1751134907
+            },
+            {
+                "name": "Dr.Stone.S04E19.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "7932b9d1b9ef5c3c7ab83279335b490ede3c287a",
+                "size": 375531642,
+                "uploaded": 35175954,
+                "ratio": 0.0928080769938671,
+                "added_on": 1755808548
+            },
+            {
+                "name": "The Shy Hero and the Assassin Princesses S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "be138424cc6fcb7a184819ed204dde9b74b4639f",
+                "size": 1438696232,
+                "uploaded": 1109839535,
+                "ratio": 0.7696646676075345,
+                "added_on": 1752345029
+            },
+            {
+                "name": "One Piece S01E1149 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "130502f7622a124765b86d778f3bcf187fba9c61",
+                "size": 522547450,
+                "uploaded": 1088876876,
+                "ratio": 2.0837702819774617,
+                "added_on": 1762720483
+            },
+            {
+                "name": "The Fated Magical Princess Who Made Me a Princess (Japanese ver.) S01E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "a776dcafb53bc8ab32acad23d7102a72dba639f8",
+                "size": 1228244407,
+                "uploaded": 116700104,
+                "ratio": 0.09449790135935807,
+                "added_on": 1763923665
+            },
+            {
+                "name": "Sakamoto.Days.S01E14.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "3c08291483c113a0c6c6ffc3c4666f28d7879b87",
+                "size": 382864212,
+                "uploaded": 32667649,
+                "ratio": 0.08516411513525814,
+                "added_on": 1753721930
+            },
+            {
+                "name": "Inception (2010) MULTi VFF 2160p 10bit 4KLight HDR BluRay x265 DTS 5.1 - QTZ.mkv",
+                "hash": "2f97529e448396f1ddbc355bfc110dd7e97f6be0",
+                "size": 7352098468,
+                "uploaded": 3147066747,
+                "ratio": 0.4272738153914055,
+                "added_on": 1741197915
+            },
+            {
+                "name": "Hero Without a Class Who Even Needs Skills S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "4474c67499d0d9e8f35ba577495a083681433eac",
+                "size": 588304692,
+                "uploaded": 82398751,
+                "ratio": 0.13780789126538354,
+                "added_on": 1761788131
+            },
+            {
+                "name": "Kumo Desu ga, Nani ka S01 VOSTFR WebRip 1080p x265 10bits AAC",
+                "hash": "d5927a369e441e63a9ad5579bc5c4012cd4765f5",
+                "size": 9498407031,
+                "uploaded": 6675910,
+                "ratio": 0.0007022024197058472,
+                "added_on": 1762466483
+            },
+            {
+                "name": "Dragons (2010) MULTi VFF 2160p 10bit 4KLight HDR BluRay x265 HE-AAC 5.1 - QTZ (How to Train Your Dragon).mkv",
+                "hash": "61d8bfffe60725b5a73b417334fcf67398f2731e",
+                "size": 3421129803,
+                "uploaded": 709547159,
+                "ratio": 0.20550138210014834,
+                "added_on": 1749672591
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "487788c8fe768398c2c255d2104091f241cd9ded",
+                "size": 1479265870,
+                "uploaded": 68234521,
+                "ratio": 0.04596179588292607,
+                "added_on": 1764283243
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "d6d43266b395a050679d2149ffc2f8f438c5da23",
+                "size": 1442457954,
+                "uploaded": 268062452,
+                "ratio": 0.1854068952330565,
+                "added_on": 1758677932
+            },
+            {
+                "name": "The Shiunji Family Children S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ef1c7f9d0cecb263f4b5d23796fa60178849e7cb",
+                "size": 1440938152,
+                "uploaded": 1093685211,
+                "ratio": 0.7570974421535501,
+                "added_on": 1747780012
+            },
+            {
+                "name": "A Couple of Cuckoos S02E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "1366139e0f59c1412eac3a8be908e3b392a12b23",
+                "size": 1440587473,
+                "uploaded": 368533456,
+                "ratio": 0.25539382482871265,
+                "added_on": 1752610808
+            },
+            {
+                "name": "A Couple of Cuckoos S02E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ebbbc481462d73a87074e02af56d1efd6903dc03",
+                "size": 1442534587,
+                "uploaded": 39449819,
+                "ratio": 0.026903096271369987,
+                "added_on": 1752019190
+            },
+            {
+                "name": "Tron Legacy (2010) IMAX MULTi VFF 2160p 10bit 4KLight DV HDR BluRay DDP 5.1 Atmos x265-QTZ.mkv",
+                "hash": "ab25e95ee416151a88e1fcef582439de182ce460",
+                "size": 9941866840,
+                "uploaded": 5533434898,
+                "ratio": 0.5470273960622843,
+                "added_on": 1758587504
+            },
+            {
+                "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon, I'm Out for Revenge S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "57271331b59c35fab39c7871c3fb388d2fa30dc2",
+                "size": 586553795,
+                "uploaded": 521602326,
+                "ratio": 0.889265964087744,
+                "added_on": 1763755543
+            },
+            {
+                "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "4e183e28818b48b6b7d9732981d0fecd67fde9db",
+                "size": 1449104338,
+                "uploaded": 123010766,
+                "ratio": 0.08435161056983488,
+                "added_on": 1762713763
+            },
+            {
+                "name": "One Piece S01E1152 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "0fb19228c7cea4a82331b757753f5dcc5045440e",
+                "size": 670253250,
+                "uploaded": 46052621,
+                "ratio": 0.06870928413998739,
+                "added_on": 1765138903
+            },
+            {
+                "name": "The.Rising.of.the.Shield.Hero.S04E03.VOSTFR.1080p.WEBrip.AAC.x265.mkv",
+                "hash": "4c794a85a6c7ceedd7c4eb65e1329b3d3a89b529",
+                "size": 332798517,
+                "uploaded": 18898131,
+                "ratio": 0.05640980418405614,
+                "added_on": 1753301576
+            },
+            {
+                "name": "The Shy Hero and the Assassin Princesses S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "b25af9fadf316f5bbfb9bd835b28a22aa50189ba",
+                "size": 1440443958,
+                "uploaded": 525269509,
+                "ratio": 0.3636663963833153,
+                "added_on": 1751764260
+            },
+            {
+                "name": "Bad Boys II (2003) MULTI VFF 2160p 10bit 4KLight HDR BluRay AAC 7.1 x265-QTZ.mkv",
+                "hash": "ab9fb6f64534f4dc178257b57e6aeb052deb935e",
+                "size": 8424352828,
+                "uploaded": 3965828451,
+                "ratio": 0.4700812643973215,
+                "added_on": 1746661212
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "1e3fc387cc6adeec9566d2eaefc7dce567e1c482",
+                "size": 1444568101,
+                "uploaded": 298869426,
+                "ratio": 0.2062327208560762,
+                "added_on": 1746661046
+            },
+            {
+                "name": "Daredevil",
+                "hash": "7a6fdae29f0fbe6be9e3b9a76ad5fa012747ab80",
+                "size": 104762962994,
+                "uploaded": 56920968206,
+                "ratio": 0.5431856758261052,
+                "added_on": 1755452858
+            },
+            {
+                "name": "Clevatess.S01E02.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "5bbd2c7b8d4d5d72cd3add6949afa507404ae6bc",
+                "size": 451058107,
+                "uploaded": 49173487,
+                "ratio": 0.10745543338069267,
+                "added_on": 1753922293
+            },
+            {
+                "name": "My Happy Marriage S01 MULTi 1080p WEB AV1 AAC -Tsundere-Raws (NF)",
+                "hash": "237a579fa79f4bb857ca9ab632164233a8528ece",
+                "size": 4275360055,
+                "uploaded": 1591374814,
+                "ratio": 0.37211943420110943,
+                "added_on": 1756081046
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "381375a7c762ddea181b4078649097d77c89acd6",
+                "size": 1458969186,
+                "uploaded": 98130842,
+                "ratio": 0.06724918517120261,
+                "added_on": 1764195343
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E03 UNCENSORED VOSTFR 1080p WEBRip x265 E-AC-3 -Tsundere-Raws (CUSTOM).mkv",
+                "hash": "dab37a2fe93187e88dd02d1288235f83aef19bee",
+                "size": 2955071710,
+                "uploaded": 1670358294,
+                "ratio": 0.5641964659575613,
+                "added_on": 1746661046
+            },
+            {
+                "name": "My.Status.as.an.Assassin.Obviously.Exceeds.the.Heros.S01E05.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "876c0a0d90a128218f1889c4102e942d5c70e3d4",
+                "size": 1495561154,
+                "uploaded": 32312963,
+                "ratio": 0.0215314438878532,
+                "added_on": 1762192497
+            },
+            {
+                "name": "One Piece S01E1151 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "7d73b9c44a932c4b521cfabe25c3921df651b23e",
+                "size": 592737801,
+                "uploaded": 6045696,
+                "ratio": 0.010095542516206386,
+                "added_on": 1764536323
+            },
+            {
+                "name": "My Dress-Up Darling S02E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "403499463442e70681453a4f34ea93a3058ce395",
+                "size": 1438285358,
+                "uploaded": 158739418,
+                "ratio": 0.10995453083640302,
+                "added_on": 1751764260
+            },
+            {
+                "name": "Captain America Brave New World (2025) MULTi VFF 2160p 10bit 4KLight DV HDR BluRay DDP 7.1 x265-QTZ.mkv",
+                "hash": "827202ea43bf3a431d80f2b5414308496f53e339",
+                "size": 7128168970,
+                "uploaded": 2481894648,
+                "ratio": 0.34775987864809427,
+                "added_on": 1753980850
+            },
+            {
+                "name": "Clevatess.S01E06.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "f7d554d7bd60105980fce90c0be9d74d21e9f083",
+                "size": 453810267,
+                "uploaded": 50853501,
+                "ratio": 0.1105662335797373,
+                "added_on": 1754639184
+            },
+            {
+                "name": "The.Apothecary.Diaries.S02.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "802ffe99c6348c037364c525562a3048ad385fb8",
+                "size": 8179317581,
+                "uploaded": 5228909646,
+                "ratio": 0.6384177418334963,
+                "added_on": 1753560828
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "4ae583a8529adef023804d9d62f5383299265e89",
+                "size": 1438765662,
+                "uploaded": 1560996817,
+                "ratio": 1.0803755500761325,
+                "added_on": 1756599648
+            },
+            {
+                "name": "From Old Country Bumpkin to Master Swordsman S01E06 MULTi 1080p WEB H.265 E-AC-3 -Tsundere-Raws (AMZN).mkv",
+                "hash": "cf9afd6248cf1276b4a5df748fd116fa66cdf12d",
+                "size": 371432078,
+                "uploaded": 35715673,
+                "ratio": 0.09472409339558617,
+                "added_on": 1746908913
+            },
+            {
+                "name": "Witch.Watch.S01E04.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "144bad9d8ebfc04cb5262e36d5a19c64a578d918",
+                "size": 305758860,
+                "uploaded": 1111311,
+                "ratio": 0.003581138292321542,
+                "added_on": 1746660863
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "cbf6eba97f513479d5a1e91b5fef2b3df31b27db",
+                "size": 1439514248,
+                "uploaded": 652353598,
+                "ratio": 0.4516728045386171,
+                "added_on": 1756599665
+            },
+            {
+                "name": "New Saga S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "f38224a341907e8ef74c37576cd3a6abc893f359",
+                "size": 1439542389,
+                "uploaded": 75018563,
+                "ratio": 0.05201066026808203,
+                "added_on": 1752764781
+            },
+            {
+                "name": "My Dress-Up Darling S02E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "029ccdc4cb6b61aac2f5688ca6c1662656f913b4",
+                "size": 1440093106,
+                "uploaded": 517864690,
+                "ratio": 0.3589378176186414,
+                "added_on": 1756599638
+            },
+            {
+                "name": "Call of the Night S02E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "fa68d3cdf6b7545b68788acb4fe4262b65d98640",
+                "size": 569021896,
+                "uploaded": 293092201,
+                "ratio": 0.5150807078959928,
+                "added_on": 1754088790
+            },
+            {
+                "name": "New Saga S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "b1d782552dae4c63d108e047ca6e1aae5e9876a4",
+                "size": 1436726905,
+                "uploaded": 574541768,
+                "ratio": 0.39930020279862116,
+                "added_on": 1753902770
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "5632df925c2d39eba940a2bb510367c324c89fb2",
+                "size": 1444328014,
+                "uploaded": 353738844,
+                "ratio": 0.24420677254792822,
+                "added_on": 1746661046
+            },
+            {
+                "name": "My.Status.as.an.Assassin.Obviously.Exceeds.the.Heros.S01E07.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "1cb0be7ffcd503a1f6648704752fb11ac075de87",
+                "size": 1499598762,
+                "uploaded": 365080844,
+                "ratio": 0.24345235088957748,
+                "added_on": 1763399023
+            },
+            {
+                "name": "Clevatess.S01E07.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "93f8c05e7592dd68b4cfaeae04b7febb35e2d50e",
+                "size": 417220020,
+                "uploaded": 19606274,
+                "ratio": 0.04106992991264923,
+                "added_on": 1756919003
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "95d51eecd7527d93bf8ef57d9c7acccba607d590",
+                "size": 1454189729,
+                "uploaded": 55267813,
+                "ratio": 0.03795010906514956,
+                "added_on": 1763595043
+            },
+            {
+                "name": "The.Big.Short.2015.MULTI.VFI.1080p.10bit.HDLight.BluRay.HE-AAC.7.1.x265-FROSTIES.mkv",
+                "hash": "aad5ab71109c8947a4aeb73e42f9d56d8e26bbb5",
+                "size": 3534871543,
+                "uploaded": 415543750,
+                "ratio": 0.11727511960390041,
+                "added_on": 1746996667
+            },
+            {
+                "name": "Call of the Night S02E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "b4cba3920dfe0d0d7b80c2696e20c81d4bfc0126",
+                "size": 568957580,
+                "uploaded": 128427727,
+                "ratio": 0.22526026615742364,
+                "added_on": 1753464364
+            },
+            {
+                "name": "The.Beginning.After.The.End.S01E01.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "c7d918a91f54c5215d0ad884f3fa0eb018c7572b",
+                "size": 270269966,
+                "uploaded": 26749100,
+                "ratio": 0.0971965980961747,
+                "added_on": 1746660752
+            },
+            {
+                "name": "Coeurs.Noirs.S02.VOF.AD.2160p.WEBRip.AMZ.HDR10+.x265.EAC3.5.1-Amen",
+                "hash": "ab566e8c568407990fda683887d57a3d9c766c55",
+                "size": 9837061016,
+                "uploaded": 4548950516,
+                "ratio": 0.46187969697505477,
+                "added_on": 1751135054
+            },
+            {
+                "name": "Witch.Watch.S01E08.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "796d8355ce88f51437638551f49e1347f90000eb",
+                "size": 298201102,
+                "uploaded": 51478528,
+                "ratio": 0.1680995923083003,
+                "added_on": 1748178336
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "75f47a0c4ed3608c4a8a9d3eac54eb381726172a",
+                "size": 1448164688,
+                "uploaded": 62557267,
+                "ratio": 0.04306386849719628,
+                "added_on": 1758224881
+            },
+            {
+                "name": "The.Beginning.After.The.End.S01E04.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "0badcab88eb48d11afe4fcfe6f23355ced7cdfbf",
+                "size": 262499457,
+                "uploaded": 9082344,
+                "ratio": 0.03397666063907424,
+                "added_on": 1746660752
+            },
+            {
+                "name": "One Piece S01E1141 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "9813988207a0ce2e552c68c93ffca99ce08a023b",
+                "size": 481882589,
+                "uploaded": 4158737,
+                "ratio": 0.008719594310053536,
+                "added_on": 1756066152
+            },
+            {
+                "name": "A Wild Last Boss Appeared S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "44e819e8a66b9b19f2d2f59d7dd9b623180dd717",
+                "size": 1440770925,
+                "uploaded": 769620188,
+                "ratio": 0.534143373825468,
+                "added_on": 1763223703
+            },
+            {
+                "name": "The Shiunji Family Children S01E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "6f8094288ba414a79d93a9719e73c020162a5694",
+                "size": 1444305563,
+                "uploaded": 81702862,
+                "ratio": 0.056464984968272444,
+                "added_on": 1747780012
+            },
+            {
+                "name": "The Rising of the Shield Hero S04E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "44a07e20bffb3082a52c60330787b4e04b92b597",
+                "size": 1437802132,
+                "uploaded": 27747265,
+                "ratio": 0.019228951002888708,
+                "added_on": 1754639210
+            },
+            {
+                "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon, I'm Out for Revenge S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "d34be610d5db2ec9ed4c2bdbe9d4c72f9be7dac6",
+                "size": 593494808,
+                "uploaded": 263774975,
+                "ratio": 0.4444436100273349,
+                "added_on": 1761934483
+            },
+            {
+                "name": "Interstellar (2014) v2 IMAX MULTi VFI 2160p 10bit 4KLight HDR BluRay DTS-HD MA 5.1 x265-QTZ.mkv",
+                "hash": "a8255365dc1fc958641685f219f34fc8f1224951",
+                "size": 13883217518,
+                "uploaded": 8467446207,
+                "ratio": 0.6094828021895892,
+                "added_on": 1741197273
+            },
+            {
+                "name": "Drive (2011) GBR MULTi VFF 2160p 10bit 4KLight DOLBY VISION BluRay TrueHD Atmos 7.1 x265-QTZ.mkv",
+                "hash": "91467c42f80abc25db379f511907a3eb4fb03220",
+                "size": 7974109214,
+                "uploaded": 932957477,
+                "ratio": 0.11686129731462472,
+                "added_on": 1756405430
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "0d734287baa2085462ba22545b71f8ffca03e04a",
+                "size": 1438390368,
+                "uploaded": 2457819126,
+                "ratio": 1.697083869442085,
+                "added_on": 1752345023
+            },
+            {
+                "name": "One Piece S01E1150 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "5b8dffdd2445fbd98c21676a62f7f80203bfb651",
+                "size": 512920557,
+                "uploaded": 477353020,
+                "ratio": 0.9286980209464349,
+                "added_on": 1763324023
+            },
+            {
+                "name": "Dr.Stone.S04E16.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "10458cd4377de5a19feb946b1df9ffc481fbd174",
+                "size": 420168659,
+                "uploaded": 401672783,
+                "ratio": 0.9543713983210427,
+                "added_on": 1753978773
+            },
+            {
+                "name": "Clevatess.S01E05.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "1f4eed4a101d9aa02cecd029f40051c08635bac5",
+                "size": 400479476,
+                "uploaded": 54599580,
+                "ratio": 0.13567242173545074,
+                "added_on": 1753902790
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "d3ee72a98cabc0e11542eca50c77e44b5f1aec4c",
+                "size": 1444328135,
+                "uploaded": 731527645,
+                "ratio": 0.5049319126048473,
+                "added_on": 1746661046
+            },
+            {
+                "name": "From Old Country Bumpkin to Master Swordsman S01E05 MULTi 1080p WEB H.265 E-AC-3 -Tsundere-Raws (AMZN).mkv",
+                "hash": "73a353658eee1aff0ef90dae3e7b5bd8dd71d5f5",
+                "size": 330786632,
+                "uploaded": 23222805,
+                "ratio": 0.06892334079731628,
+                "added_on": 1746908913
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "dab3b9a42fea80f8892c848b9ddf911302e8588a",
+                "size": 1453818151,
+                "uploaded": 22186749,
+                "ratio": 0.015174662384444813,
+                "added_on": 1761891581
+            },
+            {
+                "name": "Ballerina (2025) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR10Plus BluRay TrueHD 7.1 Atmos x265-QTZ.mkv",
+                "hash": "298e2ec0a1fb051376a391cccf7e05790622421e",
+                "size": 14565162380,
+                "uploaded": 5719128596,
+                "ratio": 0.39247029298601044,
+                "added_on": 1762079563
+            },
+            {
+                "name": "One Piece S01E1145 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "efc11ab9060501a97a6a59f33c4696dab9d01d46",
+                "size": 633644088,
+                "uploaded": 81285496,
+                "ratio": 0.12793088482516224,
+                "added_on": 1759097844
+            },
+            {
+                "name": "Hero Without a Class Who Even Needs Skills S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "1d09970ff5b7f1234f787a2a6fde70dde026ce05",
+                "size": 588937056,
+                "uploaded": 16797426,
+                "ratio": 0.027992801827818107,
+                "added_on": 1763056979
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "9d77c450cbf5b506672e4014df2bd97b002010fa",
+                "size": 1451935505,
+                "uploaded": 197417428,
+                "ratio": 0.13462637052549087,
+                "added_on": 1756347097
+            },
+            {
+                "name": "Rush Hour 2 (2001) MULTI VFF 1080p 10bit Bluray DDP 5.1 x265-ASKO.mkv",
+                "hash": "b246d483232ce3713efd02cf9775bafea0287f31",
+                "size": 4881120343,
+                "uploaded": 2004564576,
+                "ratio": 0.4101773439408305,
+                "added_on": 1751134907
+            },
+            {
+                "name": "Apocalypse Bringer Mynoghra World Conquest Starts with the Civilization of Ruin S01E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "a0b962dba25a36bf2f2cf126cffc58b4cca8e6c6",
+                "size": 1442227745,
+                "uploaded": 392332808,
+                "ratio": 0.2711213685576346,
+                "added_on": 1757898357
+            },
+            {
+                "name": "Rocky (1976) MULTi VFI 2160p 10bit 4KLight DV HDR BluRay DTS-HD MA 5.1 x265-QTZ.mkv",
+                "hash": "07d30ff4cf64dd0705c7b4453e0ed4a3a9208ac3",
+                "size": 9764349990,
+                "uploaded": 3150673089,
+                "ratio": 0.3223861193553314,
+                "added_on": 1751327278
+            },
+            {
+                "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "3426028087777d6a84c96638c281f65a49e05fbc",
+                "size": 1444917570,
+                "uploaded": 229077311,
+                "ratio": 0.15817972062309255,
+                "added_on": 1762102003
+            },
+            {
+                "name": "Clevatess.S01E08.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "6f7b07774840a48638b02142856675ddeac11409",
+                "size": 474474715,
+                "uploaded": 11637350,
+                "ratio": 0.024084566675652834,
+                "added_on": 1756919003
+            },
+            {
+                "name": "From Old Country Bumpkin to Master Swordsman S01E04 MULTi 1080p WEB H.265 E-AC-3 -Tsundere-Raws (AMZN).mkv",
+                "hash": "1debe1e862eb0af46df3078c9080819a5e84bf1c",
+                "size": 444686274,
+                "uploaded": 1114112,
+                "ratio": 0.0024608814895643347,
+                "added_on": 1746908913
+            },
+            {
+                "name": "My Dress-Up Darling S02E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "7e113ed68e4174d21f905e3bef678e6ed28d10ad",
+                "size": 1441514914,
+                "uploaded": 512261354,
+                "ratio": 0.35461593287085663,
+                "added_on": 1754168336
+            },
+            {
+                "name": "Baby Driver (2017) MULTi VFF 2160p 10bit 4KLight HDR BluRay AC3 5.1 x265-QTZ.mkv",
+                "hash": "838fd8f93113a3d29dbffebf08e8570e98e998ae",
+                "size": 5226324402,
+                "uploaded": 395436410,
+                "ratio": 0.07545975923478129,
+                "added_on": 1756405430
+            },
+            {
+                "name": "Call of the Night S02E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "ba527d5da104b4440540fcd10e794fe53c93709c",
+                "size": 573196147,
+                "uploaded": 98728098,
+                "ratio": 0.16945862001586667,
+                "added_on": 1751683011
+            },
+            {
+                "name": "A Wild Last Boss Appeared S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ed5ad56c8469868a4972ac9dcd9cacfe7ff99a5b",
+                "size": 1445094127,
+                "uploaded": 294331626,
+                "ratio": 0.20367643913343508,
+                "added_on": 1764432823
+            },
+            {
+                "name": "[Kaerizaki-Fansub] One Piece 1137 VOSTFR FHD (1920x1080) x265 HEVC 10bits.mkv",
+                "hash": "3e3a4fc8b9ffaa9c4c12c648068bd80aeeae3238",
+                "size": 621861846,
+                "uploaded": 42287104,
+                "ratio": 0.06770000785207374,
+                "added_on": 1753662629
+            },
+            {
+                "name": "Dr. STONE S04E17 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "b40e880dd873c9b9ebe32930e05795aeff1debe7",
+                "size": 1461322921,
+                "uploaded": 339666374,
+                "ratio": 0.231949666361867,
+                "added_on": 1754639249
+            },
+            {
+                "name": "One Piece S01E1136 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "5e728eb8d36d0229e2a828fcaf638595464cabf9",
+                "size": 508618272,
+                "uploaded": 804768995,
+                "ratio": 1.5809992616578656,
+                "added_on": 1752453468
+            },
+            {
+                "name": "The Rising of the Shield Hero S04E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "1031e8abb59cf94c4ada9d3228ca323eecad7c68",
+                "size": 1438862915,
+                "uploaded": 249923415,
+                "ratio": 0.17330232781260071,
+                "added_on": 1753919809
+            },
+            {
+                "name": "Clevatess.S01E01.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "b828099f9deb3ebb302b3582a60521a5cd46d0f9",
+                "size": 695301418,
+                "uploaded": 197105263,
+                "ratio": 0.28076139242901527,
+                "added_on": 1752071503
+            },
+            {
+                "name": "Ore wa Seikan Kokka no Akutoku Ryoushu S01E11 VOSTFR 1080p WebRip x265 10bit AAC.mkv",
+                "hash": "43d1ecc73761ca7a31e0903498116a7a9387dffe",
+                "size": 442211125,
+                "uploaded": 4798618,
+                "ratio": 0.01071503946007372,
+                "added_on": 1750545412
+            },
+            {
+                "name": "My Dress-Up Darling S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "42a270f6119b779b2ba4c482b986217fbc8499f8",
+                "size": 1440424924,
+                "uploaded": 148432074,
+                "ratio": 0.10288900169759697,
+                "added_on": 1757210573
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "542e1eefbc36ee7e2f15016ead6c0f6988144bd1",
+                "size": 1438303182,
+                "uploaded": 459344190,
+                "ratio": 0.31823454506997234,
+                "added_on": 1754168350
+            },
+            {
+                "name": "Destination Finale 2000 MULTi VFF 1080p BluRay E-AC3 x265-Winks.mkv",
+                "hash": "4fac2c9d68cbf46590857da9d9a6c4df44fb29d9",
+                "size": 4875169517,
+                "uploaded": 698919186,
+                "ratio": 0.14306998885417943,
+                "added_on": 1750532414
+            },
+            {
+                "name": "Bad Boys (1995) MULTI VFF 2160p 10bit 4KLight HDR BluRay AAC 7.1 x265-QTZ.mkv",
+                "hash": "8d73e097351e56b210fbf899b9417cfdcb1a64a5",
+                "size": 5165252246,
+                "uploaded": 1202457578,
+                "ratio": 0.23256206469763455,
+                "added_on": 1744063637
+            },
+            {
+                "name": "The Dark Knight Rises (2012) MULTi VFF IMAX 2160p 10bit 4KLight HDR BluRay AC3 5.1 x265-QTZ.mkv",
+                "hash": "e2a76c33eb64928149c423f71e2fb96997d2c819",
+                "size": 6432575529,
+                "uploaded": 4438361780,
+                "ratio": 0.6885641017393187,
+                "added_on": 1741198092
+            },
+            {
+                "name": "May.I.Ask.for.One.Final.Thing.S01E06.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "b35553aed480e43e5878233e623525a843fd54be",
+                "size": 285940347,
+                "uploaded": 890901222,
+                "ratio": 3.1052127594129137,
+                "added_on": 1761993823
+            },
+            {
+                "name": "BLOOM S01 MULTi 1080p WEB AV1 AAC -Tsundere-Raws (NF)",
+                "hash": "a65026e1d97d0dbfd8525d8758079fc4d8f05431",
+                "size": 2328724658,
+                "uploaded": 1325001633,
+                "ratio": 0.56873387178426,
+                "added_on": 1764016003
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "f4e31525a54f26bf616a0e31d29c44a14780ab94",
+                "size": 1440617213,
+                "uploaded": 117929417,
+                "ratio": 0.08157405586616424,
+                "added_on": 1754168677
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "736a9d385cb6c878bca25289a0c71d779e8e18bd",
+                "size": 1440506873,
+                "uploaded": 659690490,
+                "ratio": 0.45752971554255945,
+                "added_on": 1752948429
+            },
+            {
+                "name": "Call of the Night S02E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "12ef16ca272f70473dea8f2b635cae6879291399",
+                "size": 574876102,
+                "uploaded": 705516082,
+                "ratio": 1.2263651419131734,
+                "added_on": 1756493688
+            },
+            {
+                "name": "I.Was.Reincarnated.as.the.7th.Prince.so.I.Can.Take.My.Time.Perfecting.My.Magical.Ability.S02E09.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "3b56eca01a50bfb3847ff0550b1c91c6f4908343",
+                "size": 1498878926,
+                "uploaded": 325216866,
+                "ratio": 0.21633421796335364,
+                "added_on": 1758762049
+            },
+            {
+                "name": "Alya.Sometimes.Hides.Her.Feelings.in.Russian.S01.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "c28a9a5d5475ca2cb7dd6eb0a5284eb06898e2e0",
+                "size": 3669781965,
+                "uploaded": 17268736,
+                "ratio": 0.004701308270849045,
+                "added_on": 1764247118
+            },
+            {
+                "name": "The Witcher S04 MULTi VFI 2160p 10bit 4KLight DV HDR WebRip DDP 5.1 Atmos x265-QTZ",
+                "hash": "1fcf7e0c7f0ca45cf621726e4636ef7d6281ab23",
+                "size": 24876661627,
+                "uploaded": 18993087973,
+                "ratio": 0.7630405265020843,
+                "added_on": 1762531363
+            },
+            {
+                "name": "Call of the Night S02E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+                "hash": "59c4b1eea12eeab2a82394cff8d47fecf86c754b",
+                "size": 906609508,
+                "uploaded": 390948362,
+                "ratio": 0.42923553376811246,
+                "added_on": 1756921968
+            },
+            {
+                "name": "Coeurs.Noirs.S01.VOF.AD.2160p.WEBRip.AMZ.HDR10+.x265.EAC3.5.1-Amen",
+                "hash": "79c2a018f6a6cde472b1529fd419a091e71df71f",
+                "size": 11909783515,
+                "uploaded": 6599247377,
+                "ratio": 0.5535492070140716,
+                "added_on": 1751135054
+            },
+            {
+                "name": "Destination Finale 5 2011 MULTi VFF 1080p BluRay AC3 x265-Winks.mkv",
+                "hash": "15d2aec8c0288db2a6202fc63423db37f0a56311",
+                "size": 4348281728,
+                "uploaded": 405201772,
+                "ratio": 0.09273555577754572,
+                "added_on": 1750532414
+            },
+            {
+                "name": "My Dress-Up Darling S02E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "1c18259076a7e9a3bf47ddd42e40bbc9ff3123b6",
+                "size": 1442406460,
+                "uploaded": 573115332,
+                "ratio": 0.39680422331191983,
+                "added_on": 1752948414
+            },
+            {
+                "name": "I'm the Evil Lord of an Intergalactic Empire S01E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "cf49687828952a7ae1ce8521a80be046b22561f0",
+                "size": 1443416922,
+                "uploaded": 185468309,
+                "ratio": 0.12706255364017865,
+                "added_on": 1750545240
+            },
+            {
+                "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon, I'm Out for Revenge S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "ae482ea9da05fb0d780c68aa27597d97f0b3ed99",
+                "size": 588913002,
+                "uploaded": 338469260,
+                "ratio": 0.5747355871759137,
+                "added_on": 1763147683
+            },
+            {
+                "name": "My.Status.as.an.Assassin.Obviously.Exceeds.the.Heros.S01E09.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "d40a12e5e07b708445103a3ae1e2c827d8c87566",
+                "size": 1497059680,
+                "uploaded": 399231617,
+                "ratio": 0.2663190467497515,
+                "added_on": 1764608683
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "aa4170c244b26610fffa9cc948a5233bef36ce41",
+                "size": 1478484458,
+                "uploaded": 263673605,
+                "ratio": 0.17779808229395966,
+                "added_on": 1760058067
+            },
+            {
+                "name": "The Shiunji Family Children S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "7fd781f708902fe2ba234325d553afe0e97f3b54",
+                "size": 1443459254,
+                "uploaded": 1415498680,
+                "ratio": 0.9787211206171607,
+                "added_on": 1747780012
+            },
+            {
+                "name": "Hero Without a Class Who Even Needs Skills S01E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "f5080e850d591d8a6e8867201ff999151322d85e",
+                "size": 590747750,
+                "uploaded": 78080676,
+                "ratio": 0.13095949082317365,
+                "added_on": 1764785563
+            },
+            {
+                "name": "Call of the Night S02E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+                "hash": "33987e36959d762e80b741096d14f1cc7760482e",
+                "size": 899593283,
+                "uploaded": 1863147092,
+                "ratio": 2.071099381474595,
+                "added_on": 1754744388
+            },
+            {
+                "name": "A Wild Last Boss Appeared S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "c5d3617a58f283a5772e54b42ac6dfaa6eb0652d",
+                "size": 1441191429,
+                "uploaded": 714212990,
+                "ratio": 0.4942379528761181,
+                "added_on": 1762048625
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "0c3f743fefe9fed9ec7912fe01e36b341c486553",
+                "size": 1461305221,
+                "uploaded": 35162147,
+                "ratio": 0.024062151078840223,
+                "added_on": 1764785923
+            },
+            {
+                "name": "Nobody 2 (2025) MULTi VFF 2160p 10bit 4KLight DV HDR Bluray DDP 5.1 Atmos x265-QTZ.mkv",
+                "hash": "a8dc34bc3f764882c82353d1eac24211b3c21482",
+                "size": 6118857768,
+                "uploaded": 9014698224,
+                "ratio": 1.472427377032593,
+                "added_on": 1764696763
+            },
+            {
+                "name": "Now You See Me (2013) MULTi VFF 2160p 10bit 4KLight HDR BluRay x265 AAC 7.1-QTZ.mkv",
+                "hash": "9088e8d2e10decf71c4e417d7468148ab057ee4b",
+                "size": 5423652207,
+                "uploaded": 4217876131,
+                "ratio": 0.7752032773084211,
+                "added_on": 1756405430
+            },
+            {
+                "name": "May.I.Ask.for.One.Final.Thing.S01E07.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "337b00152b6777129cd6dca5e032bebc0094f08b",
+                "size": 293025748,
+                "uploaded": 38437398,
+                "ratio": 0.13116586922042744,
+                "added_on": 1762548103
+            },
+            {
+                "name": "The Shy Hero and the Assassin Princesses S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "292452361f0bb3ccad107cddf06fc76a2b500b8e",
+                "size": 1440243627,
+                "uploaded": 462480231,
+                "ratio": 0.32061885294871906,
+                "added_on": 1752948434
+            },
+            {
+                "name": "The.Gorilla.God.s.Go.to.Girl.S01.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "5bdaa72bab95c85eaf3f35c5824d72caa4c4e531",
+                "size": 3997106097,
+                "uploaded": 1097102084,
+                "ratio": 0.27404979878702984,
+                "added_on": 1752524158
+            },
+            {
+                "name": "Longmen.Town.Inn.2021.FRENCH.1080p.WEB.H265-FW",
+                "hash": "2063d1fd28f8917bd30e9a1f3174b4d6cd089c7d",
+                "size": 2650814669,
+                "uploaded": 0,
+                "ratio": 0,
+                "added_on": 1764965643
+            },
+            {
+                "name": "Thunderbolts (2025) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR10Plus BluRay DDP 5.1 Atmos x265-QTZ.mkv",
+                "hash": "f7e82c721702e845bf2eaf7a83eb662b02e9a28d",
+                "size": 8397067058,
+                "uploaded": 1027851934,
+                "ratio": 0.12236015457105151,
+                "added_on": 1753976186
+            },
+            {
+                "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "706be7ffa713b6df9ce83158e55a6e63792f77a1",
+                "size": 1446651845,
+                "uploaded": 156795452,
+                "ratio": 0.1083098194161137,
+                "added_on": 1764522223
+            },
+            {
+                "name": "The Shiunji Family Children S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "e8fc7209f36d267c4ba7a7a0e97d4e109ee5f25f",
+                "size": 1442935558,
+                "uploaded": 1269829144,
+                "ratio": 0.8748274253395746,
+                "added_on": 1747780012
+            },
+            {
+                "name": "Clevatess.S01E03.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "0abda09ca0136123c711f994f767bbd6d91ebf6c",
+                "size": 1477147394,
+                "uploaded": 965443312,
+                "ratio": 0.652451480610809,
+                "added_on": 1752678211
+            },
+            {
+                "name": "New Saga S01E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "97f4924695daf0ce1db26074bebe1118c838e19e",
+                "size": 1436818168,
+                "uploaded": 33832728,
+                "ratio": 0.023446366799636673,
+                "added_on": 1757553069
+            },
+            {
+                "name": "The punisher",
+                "hash": "22b4990881334b6cbbb86d82fc6a1bbfb0492240",
+                "size": 56739471740,
+                "uploaded": 71246286280,
+                "ratio": 1.255332888842792,
+                "added_on": 1746661212
+            },
+            {
+                "name": "The Shiunji Family Children S01E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "90e9d618e997dc12e32600536c1aaff3a66cee5b",
+                "size": 1442356224,
+                "uploaded": 378128889,
+                "ratio": 0.26164355161374087,
+                "added_on": 1747780012
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ca93bfb3d1266c2f8a57ca3e1b9bfe264a28a76c",
+                "size": 1454692653,
+                "uploaded": 13629846,
+                "ratio": 0.009343213779520791,
+                "added_on": 1761891510
+            },
+            {
+                "name": "One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "27290d4d7c8c026582e76d665d84013aa3a81ca0",
+                "size": 529321057,
+                "uploaded": 21598575,
+                "ratio": 0.04062305829306525,
+                "added_on": 1757292662
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "5d6ac6bd900dff559d1b9a1a10141bf8b55bf6ab",
+                "size": 1449678596,
+                "uploaded": 113014966,
+                "ratio": 0.07768201856826187,
+                "added_on": 1754639213
+            },
+            {
+                "name": "New Saga S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "99fc5579d700c07e89adc889a13ecb4b6a22c04b",
+                "size": 1439952455,
+                "uploaded": 174368785,
+                "ratio": 0.12026788759542681,
+                "added_on": 1756347134
+            },
+            {
+                "name": "One Piece S01E1130 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "0acad0eac5218a6096e91c4d3ea95b7f7211b2f5",
+                "size": 410923343,
+                "uploaded": 224801103,
+                "ratio": 0.5432750623984477,
+                "added_on": 1748215311
+            },
+            {
+                "name": "American Made (2017) MULTi VFF 2160p 10bit 4KLight HDR BluRay AC3 5.1 x265-QTZ.mkv",
+                "hash": "d8944d74efafedd976195742fbd4018b90448da4",
+                "size": 4540750932,
+                "uploaded": 1046721902,
+                "ratio": 0.23015794906432527,
+                "added_on": 1746660676
+            },
+            {
+                "name": "Dr.Stone.S04E14.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "d0764b65f73f66e2f3bbbe2f14fa947513fdf605",
+                "size": 388098723,
+                "uploaded": 81986824,
+                "ratio": 0.21007044953010168,
+                "added_on": 1752772290
+            },
+            {
+                "name": "Dragons 3 Le Monde Cach\u00e9 (2019) MULTi VFF 2160p 10bit 4KLight HDR BluRay x265 HE-AAC 5.1 - QTZ (How to Train Your Dragon The Hidden World).mkv",
+                "hash": "baed9cf511c16b88f8339ffe53f3b6e502245aa2",
+                "size": 3404043926,
+                "uploaded": 1454841583,
+                "ratio": 0.4266505095010476,
+                "added_on": 1749672591
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "49064d53b2a02d0b1659f78c1557470b0cb842e6",
+                "size": 1453895027,
+                "uploaded": 48037344,
+                "ratio": 0.033033748007522144,
+                "added_on": 1762978603
+            },
+            {
+                "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "237ab20af23bf676ed654ed13934f840fcaa9540",
+                "size": 1448180419,
+                "uploaded": 223329949,
+                "ratio": 0.15405102739580415,
+                "added_on": 1763312083
+            },
+            {
+                "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "78229e12d8eb54a835c4fea7d4058e3e765dabbd",
+                "size": 1439646075,
+                "uploaded": 211685932,
+                "ratio": 0.14700010848523437,
+                "added_on": 1763923663
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "5ba7571ea74121c20b6492ecc5c0d7c7a6062edd",
+                "size": 1453195149,
+                "uploaded": 0,
+                "ratio": 0,
+                "added_on": 1761891581
+            },
+            {
+                "name": "The.Apothecary.Diaries.S02E23.VOSTFR.1080p.WEBrip.AAC.x265.mkv",
+                "hash": "928276f1f9a9c8ac25381226817236652beddb54",
+                "size": 290225821,
+                "uploaded": 23852183,
+                "ratio": 0.08215244604396557,
+                "added_on": 1751065201
+            },
+            {
+                "name": "New Saga S01E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "8cedbce70400e4a86dffbd807760b8b3fa4606fe",
+                "size": 1444037945,
+                "uploaded": 78648688,
+                "ratio": 0.05435433688480866,
+                "added_on": 1758224897
+            },
+            {
+                "name": "Final.Destination.Bloodlines.2025.MULTi.VFF.2160p.DV.HDR10Plus.WEBRip.DDP.5.1.Atmos.x265-SACRiLEGE.mkv",
+                "hash": "f0aa15c50714f1549557023b786093b4072667c7",
+                "size": 3719499059,
+                "uploaded": 4952631784,
+                "ratio": 1.3272693558656026,
+                "added_on": 1750532414
+            },
+            {
+                "name": "Call of the Night S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "dd19ee3f2c95a6c32dcf172c1225b05206aecf94",
+                "size": 568615504,
+                "uploaded": 229269070,
+                "ratio": 0.4032058014373101,
+                "added_on": 1757112528
+            },
+            {
+                "name": "New Saga S01E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "fd07a7534a467a92363eaf877fd88e4015ef84de",
+                "size": 1440878568,
+                "uploaded": 213173989,
+                "ratio": 0.14759897427106247,
+                "added_on": 1753313740
+            },
+            {
+                "name": "Hero Without a Class Who Even Needs Skills S01E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "79b7707641749c5d1d4cf57d068c70ab9471ae60",
+                "size": 595926084,
+                "uploaded": 39644636,
+                "ratio": 0.0657064440363954,
+                "added_on": 1763594923
+            },
+            {
+                "name": "The Fated Magical Princess Who Made Me a Princess (Japanese ver.) S01E13 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "7a966b549715df7189f57bb121c39a57effc654d",
+                "size": 1359929559,
+                "uploaded": 785939849,
+                "ratio": 0.5774639356127867,
+                "added_on": 1765238263
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "649854832a3274b4eaf727a77d22aa174e613569",
+                "size": 1475115619,
+                "uploaded": 113900618,
+                "ratio": 0.0772069985274021,
+                "added_on": 1763066203
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "5b04503792bdba4055e574fcf755eeca54de5ae9",
+                "size": 1440040191,
+                "uploaded": 226744517,
+                "ratio": 0.15700047879137505,
+                "added_on": 1758677932
+            },
+            {
+                "name": "Mr. Robot (2015) COMPLETE MULTi VFi 1080p BluRay DTS-HD MA 5.1 x265-k7",
+                "hash": "ee355d128cffacf5dee88795a530fdfd32f89796",
+                "size": 103017156792,
+                "uploaded": 65927362734,
+                "ratio": 0.6399510631323438,
+                "added_on": 1747780808
+            },
+            {
+                "name": "One Piece S01E1148 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "c5dde27ba38479540119c3a5c3b3d1e554c3b150",
+                "size": 470140311,
+                "uploaded": 820198089,
+                "ratio": 1.744581500053502,
+                "added_on": 1762112323
+            },
+            {
+                "name": "Arcane.S01.MULTi.2160p.UHD.BluRay.DV.HDR.AV1-THESYNDiCATE",
+                "hash": "3631dc5e145e8fca0ffdcae65424e3a54701bef3",
+                "size": 18720891462,
+                "uploaded": 8978459834,
+                "ratio": 0.47933318510388995,
+                "added_on": 1762115264
+            },
+            {
+                "name": "The Shiunji Family Children S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "264d449a7c033b92b7b0e6346b876487a492fc02",
+                "size": 1443653595,
+                "uploaded": 176749674,
+                "ratio": 0.12114286074449562,
+                "added_on": 1747780012
+            },
+            {
+                "name": "Rush Hour (1998) MULTI VFF 1080p 10bit Bluray DDP 7.1 x265-ASKO.mkv",
+                "hash": "91a9ea47f1d81eab3529a039de4b8875db7a0712",
+                "size": 3186961822,
+                "uploaded": 1128502280,
+                "ratio": 0.3529229924327543,
+                "added_on": 1751051102
+            },
+            {
+                "name": "Tron (1982) MULTI VFi 1080p BluRay EAC3 5.1 x265-k7.mkv",
+                "hash": "00625b09447873bb6de96f38ccc2e8c6ff37fce4",
+                "size": 2912675926,
+                "uploaded": 795884926,
+                "ratio": 0.27308530570114553,
+                "added_on": 1758587504
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "23c02770abbd98e30429b3a48a0fc8e47f8a10ee",
+                "size": 1440776596,
+                "uploaded": 673114596,
+                "ratio": 0.4661703670570946,
+                "added_on": 1757210573
+            },
+            {
+                "name": "New Saga S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "96b430126c1890ac4c48dba3efc436f33a45cf8f",
+                "size": 1440914695,
+                "uploaded": 499696536,
+                "ratio": 0.3460000037418391,
+                "added_on": 1752764781
+            },
+            {
+                "name": "The.Beginning.After.The.End.S01E02.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "1a8248f353a08d5be2439fdb85db022571f33006",
+                "size": 272222856,
+                "uploaded": 7171291,
+                "ratio": 0.02580023349145274,
+                "added_on": 1746660752
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "459f642d17019a7c759d849aee807eaa6621a8aa",
+                "size": 1478920315,
+                "uploaded": 200275699,
+                "ratio": 0.13482423147968828,
+                "added_on": 1762467883
+            },
+            {
+                "name": "Arcane.S02.MULTi.2160p.UHD.BluRay.DV.HDR.AV1-THESYNDiCATE",
+                "hash": "aa8aeb8d011c0d57cf2ce904e1aac72c2ab022cd",
+                "size": 22259710051,
+                "uploaded": 8366731400,
+                "ratio": 0.3754514488257883,
+                "added_on": 1762115252
+            },
+            {
+                "name": "My Dress-Up Darling S02E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "c8c63d30533fd4151df9b9adba95b8304cef13de",
+                "size": 1441803077,
+                "uploaded": 457107724,
+                "ratio": 0.31681776398444356,
+                "added_on": 1753568643
+            },
+            {
+                "name": "Clevatess.S01E10.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "82c6218a5a536688cdc8d6c23457111dc7574e21",
+                "size": 330869433,
+                "uploaded": 60643777,
+                "ratio": 0.17780535889155888,
+                "added_on": 1756942908
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "86df24d48cb5f0fecb134e19a0a350c78d0cb43e",
+                "size": 1443398678,
+                "uploaded": 109037150,
+                "ratio": 0.0753588883938368,
+                "added_on": 1754168677
+            },
+            {
+                "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon, I'm Out for Revenge S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "9fca576f1ce6519d0ae1d220c8d8f17f7a1f74d6",
+                "size": 595438799,
+                "uploaded": 1062026054,
+                "ratio": 1.7834551517231287,
+                "added_on": 1764960343
+            },
+            {
+                "name": "Witch.Watch.S01E01.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "487f86193bdcfb338d96e6932ec73894d2d13f07",
+                "size": 357943333,
+                "uploaded": 36848659,
+                "ratio": 0.10152580264447228,
+                "added_on": 1746660863
+            },
+            {
+                "name": "Call of the Night S02E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "04524bb63314bde86330e25094939c62ca23cb20",
+                "size": 570749155,
+                "uploaded": 104622143,
+                "ratio": 0.18329617457068625,
+                "added_on": 1752858960
+            },
+            {
+                "name": "One Piece S01E1146 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "a1321c217520eead94ef7ec614d814fb337f2602",
+                "size": 513319769,
+                "uploaded": 73184421,
+                "ratio": 0.14068664055216681,
+                "added_on": 1760925145
+            },
+            {
+                "name": "New Saga S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "2835d00dd62beeb1b901160bd2d4d550bad05a67",
+                "size": 1434361538,
+                "uploaded": 124593897,
+                "ratio": 0.08659966911189497,
+                "added_on": 1754639220
+            },
+            {
+                "name": "Dr.Stone.S04E13.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "6cc0baf27d9b64393dba4e9296a21f4f1db150f8",
+                "size": 413918794,
+                "uploaded": 68357613,
+                "ratio": 0.16061615533090748,
+                "added_on": 1752170736
+            },
+            {
+                "name": "One Piece S01E1143 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "7a3bfe0ed883ff919eef7adc7ab26c03d4281b6f",
+                "size": 467816828,
+                "uploaded": 26944951,
+                "ratio": 0.05690808992853852,
+                "added_on": 1757898314
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "fe4e65a0085bd082c0bea3005a87240cdba776c0",
+                "size": 1442857362,
+                "uploaded": 693566027,
+                "ratio": 0.4794003505767426,
+                "added_on": 1746661046
+            },
+            {
+                "name": "The Shiunji Family Children S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "52f8924aab94f0a5e0fc7526e6dd88447aa247c9",
+                "size": 1442544219,
+                "uploaded": 853896873,
+                "ratio": 0.5853349306690137,
+                "added_on": 1748384500
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "578c1bfcb2eafcc53d7f44178191de6809298541",
+                "size": 1449477703,
+                "uploaded": 824379901,
+                "ratio": 0.2840343441823352,
+                "added_on": 1752687181
+            },
+            {
+                "name": "The.Beginning.After.The.End.S01E05.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "e6f5b09207410d1241d4d2b4740bf4463a098080",
+                "size": 246439355,
+                "uploaded": 27098669,
+                "ratio": 0.10850712236493527,
+                "added_on": 1746660752
+            },
+            {
+                "name": "From Old Country Bumpkin to Master Swordsman S01E03 MULTi 1080p WEB H.265 E-AC-3 -Tsundere-Raws (AMZN).mkv",
+                "hash": "aa411b18770222a40f8e4999329274734aa1b142",
+                "size": 397183980,
+                "uploaded": 1046595,
+                "ratio": 0.0026072569824779363,
+                "added_on": 1746908913
+            },
+            {
+                "name": "A Minecraft Movie (2025) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR10Plus BluRay TrueHD 7.1 Atmos x265-QTZ.mkv",
+                "hash": "a59a9b974186e39ea798843f0d7029ffe4187424",
+                "size": 11199429453,
+                "uploaded": 3909034532,
+                "ratio": 0.34890699714488466,
+                "added_on": 1752858960
+            },
+            {
+                "name": "Clevatess.S01E09.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "2d1a87f786bd86c540751871c064686560818242",
+                "size": 437992505,
+                "uploaded": 22315761,
+                "ratio": 0.05008986396505796,
+                "added_on": 1756919003
+            },
+            {
+                "name": "Ocean's Thirteen (2007) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR BluRay DTS-HD MA 5.1 x265-QTZ.mkv",
+                "hash": "dc2659d535b0445bcf1c15ec23dd9ed7979a9c5f",
+                "size": 8178236995,
+                "uploaded": 1763131500,
+                "ratio": 0.21523983419787887,
+                "added_on": 1756405430
+            },
+            {
+                "name": "Call of the Night S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+                "hash": "0bdc61c4ae9edbc05a432443dabb212c6d8c65d8",
+                "size": 896402108,
+                "uploaded": 348835785,
+                "ratio": 0.3880413792864553,
+                "added_on": 1758981588
+            },
+            {
+                "name": "Dragons 2 (2014) MULTi VFF 2160p 10bit 4KLight HDR BluRay x265 HE-AAC 5.1 - QTZ (How to Train Your Dragon 2).mkv",
+                "hash": "e4e57f8de84b1b79f758d6f60e92ad2f86869005",
+                "size": 3162911719,
+                "uploaded": 844886145,
+                "ratio": 0.26487627198683616,
+                "added_on": 1749672591
+            },
+            {
+                "name": "Kiss Him, Not Me",
+                "hash": "e546ac16d3df51ccc46431576477de26df1c8aef",
+                "size": 2614738504,
+                "uploaded": 9737311,
+                "ratio": 0.0037226776962983304,
+                "added_on": 1755441948
+            },
+            {
+                "name": "Solo.Leveling.S02.MULTi.1080p.WEBRiP.x265-KAF",
+                "hash": "de3e5f921a4db5dc6bb9a769c3c1087fc2ff84e6",
+                "size": 4370573311,
+                "uploaded": 1517858484,
+                "ratio": 0.34666473063846376,
+                "added_on": 1756614121
+            },
+            {
+                "name": "The.Rising.of.the.Shield.Hero.S04E02.VOSTFR.1080p.WEBrip.AAC.x265.mkv",
+                "hash": "36482f8c73cba54d3b2c41a2fb958e012d1500b1",
+                "size": 359556914,
+                "uploaded": 84216121,
+                "ratio": 0.23277963530496568,
+                "added_on": 1752678189
+            },
+            {
+                "name": "May.I.Ask.for.One.Final.Thing.S01E08.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "100551c52b07b36ef344126bc5bbc7c70757c93f",
+                "size": 306130731,
+                "uploaded": 6525744,
+                "ratio": 0.021314572185497527,
+                "added_on": 1763193943
+            },
+            {
+                "name": "The.Beginning.After.The.End.S01E06.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "78a9eb1182539f9fcb4e72c3d51d176948c5d92c",
+                "size": 226800088,
+                "uploaded": 18995053,
+                "ratio": 0.08190882624841499,
+                "added_on": 1746660752
+            },
+            {
+                "name": "Wasabi.2001.VOF.1080p.Bluray.HDLight.AV1.10bit-RYO.mkv",
+                "hash": "a557456d2202cebc7d0be5aed6d7743837159320",
+                "size": 1438748881,
+                "uploaded": 56142368,
+                "ratio": 0.038917478885678314,
+                "added_on": 1760022716
+            },
+            {
+                "name": "Hero Without a Class Who Even Needs Skills S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "95726f09cec8cfd7e1d2823d7d62d1c444165dcf",
+                "size": 591759585,
+                "uploaded": 186814612,
+                "ratio": 0.31369673131424297,
+                "added_on": 1764164263
+            },
+            {
+                "name": "Bad Boys for Life (2020) MULTi VFF 2160p 10bit 4KLight HDR BluRay AC3 5.1 x265-QTZ.mkv",
+                "hash": "64929149f7c4684c9d19d72d25f119490cd62d8a",
+                "size": 5399836594,
+                "uploaded": 1320044662,
+                "ratio": 0.24382678171938865,
+                "added_on": 1746661212
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "2515027238a665ee84d1b1e5a596455a830c9e37",
+                "size": 1447449230,
+                "uploaded": 543240146,
+                "ratio": 0.3746083732861186,
+                "added_on": 1753902768
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "62ae0bfb67cd1c655869645cb476ca8cbebec312",
+                "size": 1451213980,
+                "uploaded": 815265626,
+                "ratio": 0.5609232817994054,
+                "added_on": 1753313726
+            },
+            {
+                "name": "One Piece S01E1135 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "e7d02c112203388ce73020b62fc50d79ff97d285",
+                "size": 397274969,
+                "uploaded": 146986357,
+                "ratio": 0.36873993969338237,
+                "added_on": 1751827412
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E09 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "8a9e8202540b566d367691415516189679746ad0",
+                "size": 1452834763,
+                "uploaded": 260846227,
+                "ratio": 0.17921852989395196,
+                "added_on": 1756942926
+            },
+            {
+                "name": "Mickey 17 (2025) Hybrid MULTi VFF 2160p 10bit 4KLight DV HDR10Plus BluRay DDP 5.1 Atmos x265-QTZ.mkv",
+                "hash": "10fde509c93a6a209fd09c1f0d47618a9c8d6be8",
+                "size": 9721152243,
+                "uploaded": 4936239079,
+                "ratio": 0.5068552451147957,
+                "added_on": 1749927374
+            },
+            {
+                "name": "Call of the Night S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "21be439bcb1c2c36c1b7e75b9dcc04a671d3b83e",
+                "size": 567389289,
+                "uploaded": 127711576,
+                "ratio": 0.22508433834808683,
+                "added_on": 1758305688
+            },
+            {
+                "name": "Apocalypse Bringer Mynoghra World Conquest Starts with the Civilization of Ruin S01E13 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "eb6f604a29f10ac5fe4cdd7b25cc54cb5ce4ab77",
+                "size": 1439189803,
+                "uploaded": 243004548,
+                "ratio": 0.16853173279915923,
+                "added_on": 1759097870
+            },
+            {
+                "name": "Dan.Da.Dan.S01.CUSTOM.MULTi.VF2.1080p.BluRay.x265-T3KASHi",
+                "hash": "1f6cc3cd86292726132e88a30928f006b8bcb246",
+                "size": 5344646943,
+                "uploaded": 856962328,
+                "ratio": 0.160074886719862,
+                "added_on": 1758151472
+            },
+            {
+                "name": "May.I.Ask.for.One.Final.Thing.S01E10.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "fda93d1e1605cd44393f1f04274b0c8a87e92370",
+                "size": 339518510,
+                "uploaded": 32092797,
+                "ratio": 0.09406513038370383,
+                "added_on": 1764413383
+            },
+            {
+                "name": "From Old Country Bumpkin to Master Swordsman S01E02 MULTi 1080p WEB H.265 E-AC-3 -Tsundere-Raws (AMZN).mkv",
+                "hash": "8947738091c967318aa8810566f6cbac901b3bf1",
+                "size": 365829633,
+                "uploaded": 744102,
+                "ratio": 0.002012219409521494,
+                "added_on": 1746908913
+            },
+            {
+                "name": "The.Beginning.After.The.End.S01E12.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "724a1baad090220db4b6a042261fb1aad4090da2",
+                "size": 304467328,
+                "uploaded": 15086114,
+                "ratio": 0.049403323636369685,
+                "added_on": 1750288497
+            },
+            {
+                "name": "Call of the Night S02E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "d1534e2a3ef3f988eafdd98b73b5db0c9b55a290",
+                "size": 567823788,
+                "uploaded": 86256994,
+                "ratio": 0.15190803172198203,
+                "added_on": 1755287448
+            },
+            {
+                "name": "Pass the Monster Meat, Milady S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ea719cdae12d7164d4c44c77fb9df6e03e64a228",
+                "size": 1479876369,
+                "uploaded": 58153739,
+                "ratio": 0.03917745528021013,
+                "added_on": 1764883783
+            },
+            {
+                "name": "Bad Boys Ride or Die (2024) MULTi VFF 2160p 10bit 4KLight DV HDR BluRay TrueHD 7.1 Atmos x265-QTZ.mkv",
+                "hash": "1964eeb8cd51a62a54389e06805cf5bf79bc2104",
+                "size": 11446440501,
+                "uploaded": 7518983202,
+                "ratio": 0.6561795696612762,
+                "added_on": 1746661212
+            },
+            {
+                "name": "Destination Finale 4 2009 MULTi VFF 1080p BluRay E-AC3 x265-Winks.mkv",
+                "hash": "43714c17c70f770e09442c5ed72b63097c5f76a3",
+                "size": 4069846669,
+                "uploaded": 171408131,
+                "ratio": 0.04205600017471501,
+                "added_on": 1750532414
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ad7b5bf41378ffab374e17f5fb0cd0b5f195d350",
+                "size": 1437101125,
+                "uploaded": 194820530,
+                "ratio": 0.135042810402233,
+                "added_on": 1757210573
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "0136eb1443ffae321e92d2bac0f78222cd5ad577",
+                "size": 1452937929,
+                "uploaded": 170741922,
+                "ratio": 0.11751494581569286,
+                "added_on": 1762383643
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "9bce711b0ee882c5158119c6406fa4809256cfbc",
+                "size": 1448810572,
+                "uploaded": 613322797,
+                "ratio": 0.4224505234580801,
+                "added_on": 1752088891
+            },
+            {
+                "name": "Destination Finale 2 2003 MULTi VFF 1080p BluRay E-AC3 x265-Winks.mkv",
+                "hash": "9419416dab21c3f926477d425e063214302a84ea",
+                "size": 4486427844,
+                "uploaded": 763301972,
+                "ratio": 0.16968995450282826,
+                "added_on": 1750532414
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "68d80cf68ff5dfaa1e38a550910beaa13dd329ba",
+                "size": 1442984578,
+                "uploaded": 172954592,
+                "ratio": 0.11956749891522596,
+                "added_on": 1754168677
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E04 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "f023792d271ff43db16599acb924e6d5407f9b1c",
+                "size": 1440045161,
+                "uploaded": 838439243,
+                "ratio": 0.5806049559260582,
+                "added_on": 1753560830
+            },
+            {
+                "name": "The Fated Magical Princess Who Made Me a Princess (Japanese ver.) S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "65feaef46e364ab1e88325f7dacf9eb9e1c2e1cd",
+                "size": 1200180399,
+                "uploaded": 81091845,
+                "ratio": 0.06736472696770271,
+                "added_on": 1763322763
+            },
+            {
+                "name": "The.Rising.of.the.Shield.Hero.S04E01.VOSTFR.1080p.WEBrip.AAC.x265.mkv",
+                "hash": "7ea72a5926aa896e45d771dfdd96739272130b8d",
+                "size": 390226279,
+                "uploaded": 33232606,
+                "ratio": 0.0838234195311448,
+                "added_on": 1752071399
+            },
+            {
+                "name": "Destination Finale 3 2006 MULTi VFF 1080p BluRay E-AC3 x265-Winks.mkv",
+                "hash": "f21433511d3ca6934c19e43d3425afbc30783bf6",
+                "size": 4616811727,
+                "uploaded": 1475592778,
+                "ratio": 0.3187736244416778,
+                "added_on": 1750532414
+            },
+            {
+                "name": "Call of the Night S02E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "f9b6870bcccea9a9b660519e4283d8aadefb59ca",
+                "size": 575373391,
+                "uploaded": 368042303,
+                "ratio": 0.626586703553445,
+                "added_on": 1752258075
+            },
+            {
+                "name": "Scooped Up by an S-Rank Adventurer S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "fef24788f48b9a67bc5e83845f1f7eceedcf3b9e",
+                "size": 1441070688,
+                "uploaded": 547387201,
+                "ratio": 0.3789829810680662,
+                "added_on": 1751764260
+            },
+            {
+                "name": "New Saga S01E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "c1e93f40531b92ebc12aa074c829d219ae6f1c02",
+                "size": 1437223092,
+                "uploaded": 493205868,
+                "ratio": 0.34225977520143,
+                "added_on": 1756942933
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "37973c0a4b7e8a214e78b9680b97cd2197053ff7",
+                "size": 1442030208,
+                "uploaded": 181608758,
+                "ratio": 0.12568283762000798,
+                "added_on": 1754168677
+            },
+            {
+                "name": "The Dark History of the Reincarnated Villainess S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "700479fe099469611a15db98304274ae041de397",
+                "size": 1453136647,
+                "uploaded": 8999040,
+                "ratio": 0.006174804591118279,
+                "added_on": 1761891581
+            },
+            {
+                "name": "From Old Country Bumpkin to Master Swordsman S01E01 MULTi 1080p WEB H.265 E-AC-3 -Tsundere-Raws (AMZN).mkv",
+                "hash": "818c8192a20b514f3cb49d9ead92bdeeebcab048",
+                "size": 375417642,
+                "uploaded": 1058945,
+                "ratio": 0.0027948374796773223,
+                "added_on": 1746908913
+            },
+            {
+                "name": "Please Put Them On, Takamine-san S01E01 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "c025fb56c4bdb707b1ea20290def4af4cc530e12",
+                "size": 1444095540,
+                "uploaded": 253695378,
+                "ratio": 0.1751423974191706,
+                "added_on": 1746661046
+            },
+            {
+                "name": "A Wild Last Boss Appeared S01E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "5fca5f6807436ba468ef1f3c13da3959498fa45e",
+                "size": 1445483809,
+                "uploaded": 773929095,
+                "ratio": 0.5325269830185511,
+                "added_on": 1765040443
+            },
+            {
+                "name": "Call of the Night S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "fe46b512a97e43d1b690bba41e6ace6ed4bc1536",
+                "size": 567354989,
+                "uploaded": 183194334,
+                "ratio": 0.32289190639337095,
+                "added_on": 1757707968
+            },
+            {
+                "name": "One Piece S01E1134 VOSTFR WebRip 1080p x265 10bits AAC.mkv",
+                "hash": "026bdb918f2c95b9fd34b579dc1bebd34769c58f",
+                "size": 307171332,
+                "uploaded": 45352748,
+                "ratio": 0.14609774987566096,
+                "added_on": 1751237035
+            },
+            {
+                "name": "Hero Without a Class Who Even Needs Skills S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+                "hash": "2b9574c7e4fb7e5f554ac090b895822cc7828bcf",
+                "size": 591077975,
+                "uploaded": 542681715,
+                "ratio": 0.9180460194877371,
+                "added_on": 1762383043
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "eac1cff192c323fafcf7645f7906eb5fc69338d1",
+                "size": 1452459757,
+                "uploaded": 36867585,
+                "ratio": 0.025339859066115043,
+                "added_on": 1758842120
+            },
+            {
+                "name": "My Dress-Up Darling S02E02 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Sono Bisque Doll wa Koi wo Suru Season 2,My Dress-Up Darling Season 2)",
+                "hash": "6b663845e7207e18f589feed9f1a06de0d397b79",
+                "size": 1439820848,
+                "uploaded": 5348303263,
+                "ratio": 3.68769384095593,
+                "added_on": 1752356244
+            },
+            {
+                "name": "My.Dress-Up.Darling.S02E04.VOSTFR.1080p.WEBRiP.x265-ARONA.mkv",
+                "hash": "4d5710c1d10f83a2c4ac2759eb69c4f820d50b8a",
+                "size": 250798368,
+                "uploaded": 31301701,
+                "ratio": 0.12451789876365817,
+                "added_on": 1753560808
+            },
+            {
+                "name": "Private Tutor to the Duke's Daughter S01E05 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "1d50cf871209d1fe8d8f78209797049d5bc088d3",
+                "size": 1441888392,
+                "uploaded": 490624385,
+                "ratio": 0.3394752002761234,
+                "added_on": 1754168677
+            },
+            {
+                "name": "My.Status.as.an.Assassin.Obviously.Exceeds.the.Heros.S01E10.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "a4182154f88fc516541feb40415d5e75691a42c6",
+                "size": 1498426160,
+                "uploaded": 189643008,
+                "ratio": 0.1265607638911424,
+                "added_on": 1765213543
+            },
+            {
+                "name": "May.I.Ask.for.One.Final.Thing.S01E11.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "2383cf15056dd039c0721d4ae5624ce2918d368f",
+                "size": 340239174,
+                "uploaded": 337822414,
+                "ratio": 0.992896879064255,
+                "added_on": 1764960345
+            },
+            {
+                "name": "New Saga S01E03 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "b1c6147bec4d479bcf8d1133d4b9401ca07d66ff",
+                "size": 1437998778,
+                "uploaded": 385749507,
+                "ratio": 0.2673561186450637,
+                "added_on": 1752764781
+            },
+            {
+                "name": "Witch.Watch.S01E03.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+                "hash": "bffb3581497a9f52cbb6b9a51c94d6731940c5ea",
+                "size": 335865571,
+                "uploaded": 96989301,
+                "ratio": 0.2854120237404131,
+                "added_on": 1746660863
+            },
+            {
+                "name": "A Wild Last Boss Appeared S01E07 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "8a0d6894d2327351ea2c69d8c3e21cd8c6920923",
+                "size": 1439824694,
+                "uploaded": 1481250999,
+                "ratio": 1.0287717700443886,
+                "added_on": 1762632523
+            },
+            {
+                "name": "Batman Begins (2005) MULTi VFF 2160p 10bit 4KLight HDR BluRay AC3 5.1 x265-QTZ.mkv",
+                "hash": "1ff72a6b5c04459d3d47cdc3c5c59149efb96619",
+                "size": 4762576256,
+                "uploaded": 1779263910,
+                "ratio": 0.3721105999884067,
+                "added_on": 1748717851
+            },
+            {
+                "name": "My Happy Marriage S02 MULTi 1080p WEB AV1 AAC -Tsundere-Raws (NF)",
+                "hash": "57c6077de59be00537c8d6b92fbaa324e938250e",
+                "size": 3006953296,
+                "uploaded": 193177114,
+                "ratio": 0.064218079590833,
+                "added_on": 1756081046
+            },
+            {
+                "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "f918b2b1f5b171d2a454341fc3ecd3ebddba9b6c",
+                "size": 1449719015,
+                "uploaded": 152630123,
+                "ratio": 0.10503637658042733,
+                "added_on": 1757553069
+            },
+            {
+                "name": "The Fated Magical Princess Who Made Me a Princess (Japanese ver.) S01E08 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "ee08993675280cd81462322aa430e974e7ce0294",
+                "size": 1278280076,
+                "uploaded": 165564833,
+                "ratio": 0.12932467986930674,
+                "added_on": 1762211272
+            },
+            {
+                "name": "May.I.Ask.for.One.Final.Thing.S01E09.MULTi.1080p.WEBRiP.x265-T3KASHi",
+                "hash": "eee432bf6d3d913bde57517bddd05b8e5b57b722",
+                "size": 317675082,
+                "uploaded": 61441856,
+                "ratio": 0.19015774894565682,
+                "added_on": 1763767723
+            },
+            {
+                "name": "[SR-71] Hajimete no Gal S01 VOSTFR [1080p][X265][10BITS]",
+                "hash": "68919df14ed0aa82e7c2fc703879c9e677f1f3e0",
+                "size": 2585373145,
+                "uploaded": 8477907,
+                "ratio": 0.003274463112831546,
+                "added_on": 1762372065
+            },
+            {
+                "name": "My.Status.as.an.Assassin.Obviously.Exceeds.the.Heros.S01E08.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+                "hash": "f164ecf31e8e77674554a5ecf1f1dbca731ae9a2",
+                "size": 1497392736,
+                "uploaded": 331618361,
+                "ratio": 0.22019154991979883,
+                "added_on": 1764005983
+            },
+            {
+                "name": "The Fated Magical Princess Who Made Me a Princess (Japanese ver.) S01E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+                "hash": "f7b524981d86501c2e95da11a5b2f13b129e0497",
+                "size": 1227652961,
+                "uploaded": 99272977,
+                "ratio": 0.0805533217742445,
+                "added_on": 1764527203
+            }
+        ]
+    }
+]
