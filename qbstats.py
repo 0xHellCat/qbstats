@@ -262,7 +262,7 @@ def main():
     if upload_diffs:
         message_lines.append("**Top Uploaders (Last 24h)**")
         upload_diffs.sort(key=lambda x: x['upload_diff'], reverse=True)
-        for d in upload_diffs: # Show all
+        for d in upload_diffs[:10]: # Show top 10
              message_lines.append(f"- {d['name']} : +{sizeof_fmt(d['upload_diff'])}")
         message_lines.append("") # Blank line
 
@@ -280,7 +280,8 @@ def main():
     message_lines.append(f"Total Uploaded (Global): {sizeof_fmt(total_uploaded_global)}")
     
     if closest_entry:
-         message_lines.append(f"Uploaded in last 24h:    {sizeof_fmt(stats_24h)}")
+         nb_files_upload = len(upload_diffs)
+         message_lines.append(f"Uploaded in slast 24h:    {sizeof_fmt(stats_24h)} ({nb_files_upload} files)")
          time_ago = current_time - datetime.fromisoformat(closest_entry['timestamp'])
          hours = int(time_ago.total_seconds() // 3600)
          minutes = int((time_ago.total_seconds() % 3600) // 60)
